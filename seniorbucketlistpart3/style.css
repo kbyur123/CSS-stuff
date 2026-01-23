@@ -1,0 +1,49 @@
+body {
+    background-color: #548fc9;
+    font-family: Arial, sans-serif;
+}
+
+
+section {
+    background-color: white;
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+li{
+    color: rgb(30,200,0)
+}
+
+
+h1 {
+   color: #2c4f71;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+.list-title {
+    color: blue;
+}
+
+
+#highlight {
+    color: darkred;
+    font-weight: bold;
+}
+
+div {
+    background: red;
+    border: blue 20px thick;
+    display: block;
+}
+
+span {
+    color: rgb(6, 58, 6);
+    background:rgb(7, 105, 192);
+    display: inline;
+}
+
